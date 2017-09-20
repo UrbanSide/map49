@@ -1,12 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Карта49</name>
-    <NetworkLink>
-      <name>Пролёт49</name>
-      <Link>
-        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1Yt53IkvloZjcl6eYoULjlnH3oNU&lid=ZuKnK17AU38]]></href>
-      </Link>
-    </NetworkLink>
+    <name>Пролёт49</name>
+    <description>Пролёт49</description>
+    <Style id="icon-1541-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1541-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1541-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1541-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1541-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1565-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1565-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1565-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1565-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1565-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1653-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1653-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1653-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1653-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1653-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1655-097138-nodesc-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1655-097138-nodesc-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1655-097138-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1655-097138-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1655-097138-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Карта49</name>
+      <Placemark>
+        <name>Бус Вертикаль</name>
+        <styleUrl>#icon-1541-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.0357494,59.9074042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Форт Риф</name>
+        <styleUrl>#icon-1655-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.6380663,60.0331945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бункер НТЦ</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/uSSsnGCUtLd3RtqwpKOWCBvouDyBosYALPRWeEJnaFWnicXgoLUK7UsLYNuwJ4wz-vOoOydHbmNu_5bnw1shqEXZUsHnd55hDmuCD4YrjDL_iBDBBNeXIymL3HBmjoFXmw" height="200" width="auto" /><br><br>Шикарный бункер<br><br><img src="https://lh3.googleusercontent.com/XyaS8HEGYqllNwanzc06wL2F-pRFH7h3U2y7x0gTsC60j8WLW0cVj6HI6G1A-amwQEe6Ue9BvqwWYLytCy9hHSSLwpqMIRb-_sxhQDvkcC9ClT85g516Nf66ylEl9_kn" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1653-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/uSSsnGCUtLd3RtqwpKOWCBvouDyBosYALPRWeEJnaFWnicXgoLUK7UsLYNuwJ4wz-vOoOydHbmNu_5bnw1shqEXZUsHnd55hDmuCD4YrjDL_iBDBBNeXIymL3HBmjoFXmw https://lh3.googleusercontent.com/XyaS8HEGYqllNwanzc06wL2F-pRFH7h3U2y7x0gTsC60j8WLW0cVj6HI6G1A-amwQEe6Ue9BvqwWYLytCy9hHSSLwpqMIRb-_sxhQDvkcC9ClT85g516Nf66ylEl9_kn</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.8414985,60.3170247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Стенд НТЦ</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/TzGpD-9kdZ3CH0_zRbk3TGOhG5ZPwa9o2dBS_qfFoSIYhb_WBKoVmMLRD2MVCWVqBtO2vJv_A-n010g-_SA48Okrq3E-Rz7YmbJCDEuR45V3qROK0YOwvWAS24zYPnXI" height="200" width="auto" /><br><br>Стенд НТЦ Приморский]]></description>
+        <styleUrl>#icon-1565-817717</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/TzGpD-9kdZ3CH0_zRbk3TGOhG5ZPwa9o2dBS_qfFoSIYhb_WBKoVmMLRD2MVCWVqBtO2vJv_A-n010g-_SA48Okrq3E-Rz7YmbJCDEuR45V3qROK0YOwvWAS24zYPnXI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.8519216,60.3144638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>
