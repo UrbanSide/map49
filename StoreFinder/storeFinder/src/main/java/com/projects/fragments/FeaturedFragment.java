@@ -173,7 +173,7 @@ public class FeaturedFragment extends Fragment implements OnItemClickListener, O
 				tvTitle.setText(name);
 				
 				TextView tvSubtitle = (TextView) v.findViewById(R.id.tvSubtitle);
-				tvSubtitle.setText(address);
+				tvSubtitle.setText("Охрана: "+address);
 
 				// SETTING VALUES
 				float rating = 0;

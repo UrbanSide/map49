@@ -87,10 +87,10 @@
     <string name="share">Share</string>
     <string name="placeholder_review">Review</string>
     <string name="chars_left">Char(s) left</string>
-    <string name="about_us_detail">We are small team that aims for awesome Game and Apps Development. There are no application we cannot do as long as there is music that keeps us going and creating wonderful apps.\n\nIf you are looking for awesome Teams that will make your Apps interactive and awesome. Just contact us.</string>
-    <string name="contact_us">Contact Us</string>
-    <string name="terms_and_conditions">Terms and Conditions</string>
-    <string name="terms_and_conditions_details">1.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n2.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n3.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="about_us_detail">Пролёт49 - не большой но активный проект.</string>
+    <string name="contact_us">Написать нам</string>
+    <string name="terms_and_conditions">Инструкция</string>
+    <string name="terms_and_conditions_details">1.) Поиск объектов\n\n2.) Добавление объектов \n\n3.) Модерация и т.д.\n\n Пока раздел не оформлен...</string>
     <string name="logout">Logout</string>
     <string name="text_empty">-------</string>
     <string name="email_subject_company">Store Finder Inquiry</string>

@@ -1,4 +1,4 @@
-#Fri Sep 22 13:53:07 MSK 2017
+#Fri Sep 22 14:45:24 MSK 2017
 base.0=C\:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

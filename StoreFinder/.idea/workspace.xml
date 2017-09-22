@@ -42,41 +42,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/HomeFragment.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/storefinder/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="39">
+              <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/storeFinder/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="203">
+              <caret line="92" column="149" selection-start-line="92" selection-start-column="149" selection-end-line="92" selection-end-column="149" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FavoriteFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FavoriteFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/FavoriteFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="162" column="44" selection-start-line="162" selection-start-column="44" selection-end-line="162" selection-end-column="44" />
+            <state relative-caret-position="-393">
+              <caret line="162" column="26" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/MapFragment.java">
+      <file leaf-file-name="FeaturedFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/FeaturedFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="332" column="36" selection-start-line="332" selection-start-column="36" selection-end-line="332" selection-end-column="36" />
+            <state relative-caret-position="185">
+              <caret line="175" column="44" selection-start-line="175" selection-start-column="44" selection-end-line="175" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -2576,7 +2589,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/storeFinder/build/generated/source/buildConfig/androidTest/debug/com/projects/storefinder/test/BuildConfig.java" />
-        <option value="$PROJECT_DIR$/storeFinder/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/facebookSDK/src/main/java/com/facebook/widget/FacebookFragment.java" />
         <option value="$PROJECT_DIR$/facebookSDK/src/main/java/com/facebook/widget/PlacePickerFragment.java" />
@@ -2588,7 +2600,6 @@
         <option value="$PROJECT_DIR$/storeFinder/src/main/res/layout/store_entry.xml" />
         <option value="$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_detail.xml" />
         <option value="$PROJECT_DIR$/storeFinder/src/main/java/com/config/Config.java" />
-        <option value="$PROJECT_DIR$/storeFinder/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_weather.xml" />
         <option value="$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/WeatherFragment.java" />
         <option value="$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_imageviewer.xml" />
@@ -2596,6 +2607,10 @@
         <option value="$PROJECT_DIR$/storeFinder/src/main/res/layout/store_search_entry.xml" />
         <option value="$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/MapFragment.java" />
         <option value="$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/FavoriteFragment.java" />
+        <option value="$PROJECT_DIR$/storeFinder/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_terms_condition.xml" />
+        <option value="$PROJECT_DIR$/storeFinder/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/FeaturedFragment.java" />
       </list>
     </option>
   </component>
@@ -2832,6 +2847,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storefinder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3383,7 +3402,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="-5" width="1376" height="738" extended-state="6" />
+    <frame x="-5" y="-5" width="1376" height="738" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3437,69 +3456,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/activities/SearchResultActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="113" column="17" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/NewsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="123" column="43" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/activities/DetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="512" column="36" selection-start-line="512" selection-start-column="36" selection-end-line="512" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_splash.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/config/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="99" column="70" selection-start-line="99" selection-start-column="40" selection-end-line="99" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/WeatherFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="101" column="77" selection-start-line="101" selection-start-column="77" selection-end-line="101" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/AnimationFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="32" column="77" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -3560,17 +3520,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/layout/empty_list.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_about_us.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
@@ -3768,17 +3717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_terms_condition.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_weather.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -3945,28 +3883,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/MapFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="66">
+          <caret line="332" column="26" selection-start-line="332" selection-start-column="8" selection-end-line="332" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/MapFragment.java">
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/AnimationFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="77" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_about_us.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="62" column="49" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="49" />
+          <folding>
+            <element signature="e#2352#2377#0" expanded="true" />
+            <element signature="e#2818#2838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/SearchFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="332" column="36" selection-start-line="332" selection-start-column="36" selection-end-line="332" selection-end-column="36" />
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/layout/fragment_terms_condition.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#911#941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/TermsConditionFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/AboutUsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="75" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="81" />
+          <folding>
+            <element signature="e#1127#1261#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/storefinder/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="92" column="149" selection-start-line="92" selection-start-column="149" selection-end-line="92" selection-end-column="149" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/FavoriteFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="162" column="44" selection-start-line="162" selection-start-column="44" selection-end-line="162" selection-end-column="44" />
+        <state relative-caret-position="-393">
+          <caret line="162" column="26" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="26" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/java/com/projects/fragments/FeaturedFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="175" column="44" selection-start-line="175" selection-start-column="44" selection-end-line="175" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeFinder/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
   </component>

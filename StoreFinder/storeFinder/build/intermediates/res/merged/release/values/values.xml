@@ -144,7 +144,7 @@
     <integer name="num_news_line_3">3</integer>
     <string name="IO_Exception_getFromLocation">IO Exception in Geocoder.getFromLocation()</string>
     <string name="about_us">О нас</string>
-    <string name="about_us_detail">We are small team that aims for awesome Game and Apps Development. There are no application we cannot do as long as there is music that keeps us going and creating wonderful apps.\n\nIf you are looking for awesome Teams that will make your Apps interactive and awesome. Just contact us.</string>
+    <string name="about_us_detail">Пролёт49 - не большой но активный проект.</string>
     <string name="action_error">Action Error</string>
     <string name="action_settings">Настройки</string>
     <string name="alert_logout_user_no">No</string>
@@ -225,7 +225,7 @@
     <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="contact_us">Contact Us</string>
+    <string name="contact_us">Написать нам</string>
     <string name="editing_fields">**When editing all fields are necessary.</string>
     <string name="email">Email</string>
     <string name="email_body">Hi, your store is awesome.</string>
@@ -295,8 +295,8 @@
     <string name="some_fields_are_missing">Some fields are missing.</string>
     <string name="starred">Избранное</string>
     <string name="tap_back_again_to_exit">Please tap back again to exit the app.</string>
-    <string name="terms_and_conditions">Terms and Conditions</string>
-    <string name="terms_and_conditions_details">1.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n2.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n3.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="terms_and_conditions">Инструкция</string>
+    <string name="terms_and_conditions_details">1.) Поиск объектов\n\n2.) Добавление объектов \n\n3.) Модерация и т.д.\n\n Пока раздел не оформлен...</string>
     <string name="terms_condition">Инструкция</string>
     <string name="text_empty">-------</string>
     <string name="update_profile">Update Profile</string>
