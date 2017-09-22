@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\facebookSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values-mdpi-v4\\values-mdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\facebookSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values-mdpi-v4\\values-mdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    }
+]

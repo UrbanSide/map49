@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_categories.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_categories.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\tag_starred.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\tag_starred.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_facebook_large.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_facebook_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\map_info_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\map_info_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\review_thumb_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\review_thumb_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\header_logo.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\header_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\toggle_thumb_off.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\toggle_thumb_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_login.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\bg_slider_track.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\bg_slider_track.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\list_store_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\list_store_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\textbox_fullname.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\textbox_fullname.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\textbox_email.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\textbox_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\list_news_placeholder_210.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\list_news_placeholder_210.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\textbox_search_selected.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\textbox_search_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\map_pin_orange.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\map_pin_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_map.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_route.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_route.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_search.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\detail_image_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\detail_image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\profile_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\bg_slider_handle_selected.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\bg_slider_handle_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_news.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_news.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_fave_selected.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_fave_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_sms.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_sms.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_weather.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_weather.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_home.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\bg_splash.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_fave_normal.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_fave_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_twitter_large.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_twitter_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\image_counter.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\image_counter.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\blur_weather.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\blur_weather.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_settings.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_web.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_web.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_starred.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_starred.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_call.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_web_forward.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_web_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_login_large.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_login_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_menu.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_fave_map_normal.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_fave_map_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_share_twitter.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_share_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_half.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_half.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_new_rating_fill.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_new_rating_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\toggle_thumb_on.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\toggle_thumb_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\textbox_username.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\textbox_username.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_check.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\bg_header_aboutus.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\bg_header_aboutus.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\bg_slider_handle.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\bg_slider_handle.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\list_arrow.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\list_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_share_facebook.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_share_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_new_rating_half.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_new_rating_half.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_close.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_featured.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_featured.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_menu_reviews.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_menu_reviews.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\textbox_search_normal.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\textbox_search_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\circular.9.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\circular.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\image_viewer_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\image_viewer_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_empty.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_web_back.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_web_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\textbox_password.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\textbox_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_tc.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_tc.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\slider_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\slider_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Dael\\.android\\build-cache\\08e66a1917d82cd65b0e6312a7326234c54327cb\\output\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_web_refresh.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_web_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_menu_new_review.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_menu_new_review.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\profile_thumb_placeholder.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\profile_thumb_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_fill.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_register.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\bg_slider_fill.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\bg_slider_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_email.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\button_twitter.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\button_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\star_new_rating_empty.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\star_new_rating_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_about.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_map_arrow.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\ic_map_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\tag_featured.png",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\drawable-mdpi\\tag_featured.png"
+    }
+]

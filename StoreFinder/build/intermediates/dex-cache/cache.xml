@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\httpclient-4.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\httpclient-4.3.4_aae0eda1efb3a1ac229904a0d6e0ec6a6e0a5607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\twitter4j-media-support-4.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96b1b89e9d7e95d040df13d638d1f237b9cf95f8">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-media-support-4.0.2_1e10ca116d15c667fab8a56a92432b58676bc926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_580a56b220f839070793a3d679389f0f2241f630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_22506613a9f8fe5cd1c4edfa0caf391e7442a111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\twitter4j-async-4.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23d4842074b95d6115b5f49dc3f9cd8fbb009a76">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-async-4.0.2_f14e0b16f7dc26249e23e3c40477df6c45504ef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\apache-mime4j-0.6_953c44f93b67bcdb534311a7403b1803f962fa78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.2_7a989741ca3bcc509b39f9d296c061f02dad8131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3fa9a272ce97601498defa8129edb89e3de2131">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-stream-4.0.2_59a63fb5a8c127f3d63b67c4e1fe5de666aad08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\httpcore-4.3.2_8c7f2f6e28739767a3bc764882992c187ca37ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0faef4253b4ba28f47d7bd56a1d438f79ab04e92">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources_26ab6b119e48f737df1e3608af1fff9460738c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_1de3ff8e2a1dbef5f42b17cdfae7661074d3b222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\libs\httpmime-4.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\httpmime-4.3.4_f8336d50b192031668177c424ff2e03c4180b67e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\facebookSDK\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a63931797f00c37aa89d8814bef52fa6dec81349">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\release\classes_dc06994309a3f01e520f305fe5a59262c41f11f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\facebookSDK\build\intermediates\bundles\default\libs\bolts.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b976b9e58687db63a9420181eec2e786b3a1159a">
+        <dex dex="C:\Users\Dael\Desktop\StoreFinder v1.1.5 Android\StoreFinder v1.1.5\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\bolts_cad5e0833a17488ae8ffb5e6230956a0da315bf1.jar" />
+    </item>
+
+</items>

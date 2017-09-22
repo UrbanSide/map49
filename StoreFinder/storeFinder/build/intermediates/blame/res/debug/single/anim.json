@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\trans_slide_in_left.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\trans_slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down2.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\slide_down2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up2.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\slide_up2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\trans_slide_out_right.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\trans_slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\Dael\\Desktop\\StoreFinder v1.1.5 Android\\StoreFinder v1.1.5\\StoreFinder\\storeFinder\\src\\main\\res\\anim\\slide_down.xml"
+    }
+]

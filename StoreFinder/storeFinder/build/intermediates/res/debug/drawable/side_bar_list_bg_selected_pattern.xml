@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:tileMode="repeat" 
+    android:src="@drawable/side_bar_list_bg_selected" />
+<!-- From: file:/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/StoreFinder/storeFinder/src/main/res/drawable/side_bar_list_bg_selected_pattern.xml -->
